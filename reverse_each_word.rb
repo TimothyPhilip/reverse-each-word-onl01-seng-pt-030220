@@ -4,4 +4,5 @@ def reverse_each_word(sentence1)
       "#{s}".reverse
       
   end
+  return new_sentence1
 end
