@@ -1,6 +1,4 @@
 def reverse_each_word(sentence1)
-    sentence1.each do |s|
-      puts s
-    end
+    new_sentence1 = [] << sentence1.
   
 end
