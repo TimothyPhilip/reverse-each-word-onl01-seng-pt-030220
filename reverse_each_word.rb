@@ -1,5 +1,5 @@
 def reverse_each_word(sentence1)
-    sentence1.each do |s| 
-      puts "#{s}"
+    sentence1.collect do |s| 
+       "#{s}"
     end
 end
